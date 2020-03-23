@@ -16,5 +16,9 @@
 
 4.待补充。。。<br>
 ---------------<br>
-下次更新：本来就是一时兴趣，谁知道什么时候更新呢。。。
-
+下次更新：本来就是一时兴趣，谁知道什么时候更新呢。。。<br>
+<br>
+文件下载：<br>
+源码:https://github.com/c785698813/PCL2/blob/master/PCL.zip <br>
+模块:https://github.com/c785698813/PCL2/blob/master/Module%20.zip <br>
+模块授权文件:https://github.com/c785698813/PCL2/blob/master/Eals.zip <br>
