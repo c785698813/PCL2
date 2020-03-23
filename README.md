@@ -19,6 +19,10 @@
 下次更新：本来就是一时兴趣，谁知道什么时候更新呢。。。<br>
 <br>
 文件下载：<br>
+===================
+已编译版本:https://github.com/c785698813/PCL2/blob/master/Meng.zip <br>
+===================
 源码:https://github.com/c785698813/PCL2/blob/master/PCL.zip <br>
 模块:https://github.com/c785698813/PCL2/blob/master/Module%20.zip <br>
 模块授权文件:https://github.com/c785698813/PCL2/blob/master/Eals.zip <br>
+注：软件UI使用了EXUI，没有的自己去百度下载吧。
