@@ -24,5 +24,5 @@
 ===================
 源码:https://github.com/c785698813/PCL2/blob/master/PCL.zip <br>
 模块:https://github.com/c785698813/PCL2/blob/master/Module%20.zip <br>
-模块授权文件:https://github.com/c785698813/PCL2/blob/master/Eals.zip <br>
+模块授权文件: <br>
 注：软件UI使用了EXUI，没有的自己去百度下载吧。
